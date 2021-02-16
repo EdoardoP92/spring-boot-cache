@@ -14,7 +14,6 @@ public class Caller implements CommandLineRunner {
 	
 	private final Repo repo;
 	
-	
 	public Caller(Repo repo) {
 		this.repo = repo;
 	}
